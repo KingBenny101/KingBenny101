@@ -1,51 +1,43 @@
-<!--- Replace the placeholders with your information -->
-ChatGPT generated 
+ChatGPT generated, ngl pretty cool stuff 
 
 # Hello, World! 👋
 
-I'm [Your Name], a passionate [Your Occupation] from [Your Location]. 
+I'm [Benstin Davis](https://www.linkedin.com/in/benstindavis/), an undergraduate student pursuing B.Tech in Electrical Engineering at IIT Tirupati, hailing from Chennai, Tamil Nadu, India.
 
-🚀 I'm currently working on [Your Current Project] and [Another Exciting Project].
+🔧 I specialize in digital electronics and VLSI, with expertise in physical design using tools like Cadence and Vivado.
 
-🌱 I'm always learning and exploring new technologies. My current focus is on [Technologies You're Interested In].
+🚀 Currently working on my B.Tech project: Designing Quantum Circuits for Cryptanalysis.
 
-💡 I love to solve problems and automate things using my coding skills.
+🌱 Previously delved into:
+- Machine Learning
+- Web Development
+- App Development
+- Game Development
 
 ---
 
 ## 🔧 Technologies & Tools
 
-![Tech 1](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1)
-![Tech 2](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2)
-![Tech 3](https://img.shields.io/badge/-Tech3-333333?style=flat&logo=tech3)
-![Tech 4](https://img.shields.io/badge/-Tech4-333333?style=flat&logo=tech4)
+![Digital Electronics](https://img.shields.io/badge/-Digital%20Electronics-333333?style=flat&logo=digitalocean)
+![VLSI](https://img.shields.io/badge/-VLSI-333333?style=flat&logo=vlsi)
+![Cadence](https://img.shields.io/badge/-Cadence-333333?style=flat&logo=cadence)
+![Vivado](https://img.shields.io/badge/-Vivado-333333?style=flat&logo=vivado)
 
 ---
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)](https://github.com/your-username)
+[![Benstin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benstindavis&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)](https://github.com/benstindavis)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/your-username)
-
----
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post 1](#)
-- [Blog Post 2](#)
-- [Blog Post 3](#)
-<!-- BLOG-POST-LIST:END -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benstindavis&layout=compact&theme=dark)](https://github.com/benstindavis)
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/your-twitter-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/benstindavis/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/KingBenny101)
 
 ---
 
-⭐️ From [Your Name](https://github.com/your-username)
+⭐️ From [Benstin Davis](https://github.com/benstindavis)
