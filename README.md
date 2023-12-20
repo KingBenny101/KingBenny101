@@ -14,10 +14,10 @@
 
 <p align="center">
   <a href="https://wakatime.com/@KingBenny101">
-  <img align = "center"  src="https://wakatime.com/share/@KingBenny101/7e6d14ae-8e39-44b0-abc0-2b0c3f152241.svg" />
+  <img align = "center"  width="500" height="375" src="https://wakatime.com/share/@KingBenny101/e842a068-cb9c-4d03-a120-b74849b3289b.svg" />
 </a>
 <a href="https://wakatime.com/@KingBenny101">
-  <img  align = "center" src="https://wakatime.com/share/@KingBenny101/7e6d14ae-8e39-44b0-abc0-2b0c3f152241.svg"/>
+  <img  align = "center" width="500" height="375" src="https://wakatime.com/share/@KingBenny101/02045c00-6acc-468a-ba89-ec85a515fc26.svg"/>
 </a>
 </p>
 
