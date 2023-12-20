@@ -21,7 +21,7 @@
 
 
 
-# Hello, World! 👋
+## 👋 Hello, World! 
 
 I'm [Benstin Davis](https://www.linkedin.com/in/benstindavis/), an undergraduate student pursuing B.Tech in Electrical Engineering at IIT Tirupati, hailing from Chennai, Tamil Nadu, India.
 
