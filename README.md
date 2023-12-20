@@ -1,5 +1,18 @@
 ***AI generated, ngl pretty cool stuff***
 
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=benstindavis&show_icons=true&theme=tokyonight" />
+</a></p>
+
+<p align="center"><a href="https://wakatime.com/@KingBenny101">
+  <figure><embed src="https://wakatime.com/share/@KingBenny101/4ae37c99-79cd-4770-8452-29d9ea4d1478.svg"></embed></figure>
+</a>
+<a href="https://wakatime.com/@KingBenny101">
+  <figure><embed src="https://wakatime.com/share/@KingBenny101/072a0df2-cded-44a5-a72a-e0fdac779a8f.svg"></embed></figure>
+</a></p>
+
+
+
 # Hello, World! 👋
 
 I'm [Benstin Davis](https://www.linkedin.com/in/benstindavis/), an undergraduate student pursuing B.Tech in Electrical Engineering at IIT Tirupati, hailing from Chennai, Tamil Nadu, India.
