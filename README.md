@@ -21,31 +21,6 @@
 
 
 
-## 👋 Hello, World! 
-
-I'm [Benstin Davis](https://www.linkedin.com/in/benstindavis/), an undergraduate student pursuing B.Tech in Electrical Engineering at IIT Tirupati, hailing from Chennai, Tamil Nadu, India.
-
-🔧 I specialize in digital electronics and VLSI, with expertise in physical design using tools like Cadence and Vivado.
-
-🚀 Currently working on my B.Tech project: Designing Quantum Circuits for Cryptanalysis.
-
-🌱 Previously delved into:
-- Machine Learning
-- Web Development
-- App Development
-- Game Development
-
----
-
-## 🔧 Technologies & Tools
-
-![Digital Electronics](https://img.shields.io/badge/-Digital%20Electronics-333333?style=flat&logo=digitalocean)
-![VLSI](https://img.shields.io/badge/-VLSI-333333?style=flat&logo=vlsi)
-![Cadence](https://img.shields.io/badge/-Cadence-333333?style=flat&logo=cadence)
-![Vivado](https://img.shields.io/badge/-Vivado-333333?style=flat&logo=vivado)
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/benstindavis/)
@@ -53,4 +28,4 @@ I'm [Benstin Davis](https://www.linkedin.com/in/benstindavis/), an undergraduate
 
 ---
 
-⭐️ From [Benstin Davis](https://github.com/benstindavis)
+⭐️ From [Benstin Davis](https://github.com/benstindavis) but AI generated
