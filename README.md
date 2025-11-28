@@ -1,7 +1,7 @@
 # Hi there 👋
 
-Masters student learning control and optimization.  
-Develops for fun and explores side projects.
+**Masters student learning control and optimization.**
+**Develops for fun and explores side projects.**
 
 ---
 
@@ -15,5 +15,5 @@ Develops for fun and explores side projects.
 
 ## Socials 🌐
 
-- 🐦 X: https://x.com/KingBenny101  
-- 👽 Reddit: https://www.reddit.com/user/KingBennyPlayero/
+- X: https://x.com/KingBenny101  
+- Reddit: https://www.reddit.com/user/KingBennyPlayero/
