@@ -1,6 +1,7 @@
 # Hi there 👋
 
 **Masters student learning control and optimization.**
+
 **Develops for fun and explores side projects.**
 
 ---
