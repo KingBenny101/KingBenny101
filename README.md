@@ -1,12 +1,14 @@
-# Hi there 👋
+# Hello👋
 
-**Master's student learning control and optimization.**
+**I'm a Masters student learning control and optimization.**
 
-**Develops for fun and explores side projects.**
+**I develop for fun and explore side projects.**
 
 ---
 
-## GitHub stats 📊
+## GitHub Stats
+
+Highlights from recent activity and public repositories.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingBenny101&show_icons=true&hide_title=true)
 
@@ -14,7 +16,8 @@
 
 ---
 
-## Socials 🌐
+## Socials
 
-- X: https://x.com/KingBenny101  
-- Reddit: https://www.reddit.com/user/KingBennyPlayero/
+[![X](https://img.shields.io/badge/X-@KingBenny101-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KingBenny101)
+[![Reddit](https://img.shields.io/badge/Reddit-u%2FKingBennyPlayero-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/KingBennyPlayero/)
+[![Discord](https://img.shields.io/badge/Discord-KingBenny101-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/531093809862279168)
