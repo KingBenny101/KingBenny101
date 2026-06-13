@@ -1,8 +1,8 @@
 # Hello👋
 
-**I'm a Masters student learning control and optimization.**
+**I'm a Hardware Engineer.**
 
-**I develop for fun and explore side projects.**
+**I develop for fun.**
 
 ---
 
