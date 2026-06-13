@@ -1,7 +1,5 @@
 # Hello👋
 
-**I'm a Hardware Engineer.**
-
 **I develop for fun.**
 
 ---
