@@ -1,7 +1,5 @@
 # Hello👋
 
-**I develop for fun.**
-
 ---
 
 ## GitHub Stats
